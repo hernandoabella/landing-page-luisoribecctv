@@ -17,6 +17,8 @@ Podrías tener una sección que presente a los miembros clave de tu equipo y su 
 
 ### Testimonios de Clientes:
 
+### Certificaciones y Reconocimientos:
+
 ### Preguntas frecuentes
 
 - ¿Por qué es recomendable la instalación de cámaras de seguridad?

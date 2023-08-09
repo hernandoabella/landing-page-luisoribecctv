@@ -10,7 +10,12 @@ somos una empresa de instalacion de camaras de seguridad con mas de 12 años de 
 - configuracion de equipos informaticos: routers, computadores, impresoras...
 - mantenimiento preventivo para equipos de computo
 
+### Experiencia y Equipo:
+Podrías tener una sección que presente a los miembros clave de tu equipo y su experiencia en la industria de la seguridad y la tecnología.
+
 ### galeria de imagenes
+
+
 
 ### Preguntas frecuentes
 
